@@ -23,7 +23,7 @@ Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatu
 
 ### Eiusmod tempor et fugiat
 ```mermaid
-Tölur úr töflunni hér að ofan
+pie title Pets Tölur úr töflunni hér að ofan
     "miðja" : 12
     "vinstri" : 33
     "Hægri" : 55
