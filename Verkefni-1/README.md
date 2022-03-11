@@ -15,10 +15,10 @@ Minim dolor et cillum Lorem cillum sunt. Duis eiusmod anim anim ut dolor. Nulla 
 Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatur. Incididunt minim culpa dolore ipsum excepteur culpa ut velit magna. Ad et dolore ad nisi dolore nulla elit. Enim sit aliquip magna amet minim do tempor ullamco ea dolor quis eu. Eiusmod tempor et fugiat ea ea voluptate aliquip amet duis nulla. Sunt deserunt aliquip sit aliqua eiusmod irure enim commodo quis do tempor incididunt.
 
 ## Ad esse sit nostrud est sit sunt
-| Miðja | Vinstri | Hægri |
+| *Miðja* | ´Vinstri´ | **Hægri** |
 |-------|---------|-------|
-| 12 | 34 | 56 |
-| tempor |et | fugiat |
+| *12* | ´34´ | **56** |
+| *tempor* | ´et´ | **fugiat** |
 
 ### Eiusmod tempor et fugiat
 
