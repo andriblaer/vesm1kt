@@ -1,6 +1,6 @@
 # Irure veniam deserunt excepteur
 
-[Eu excepteur id pariatur velit](Eu excepteur id pariatur velit)
+[Eu excepteur id pariatur velit](eu excepteur id pariatur velit)
 Ex est eiusmod quis in tempor 
 Nulla consequat in duis 
 quis Ad esse sit nostrud est sit sunt 
