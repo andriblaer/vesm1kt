@@ -31,10 +31,12 @@ pie title Tölur úr töflunni hér að ofan
 
 ### Dolore ut velit
 
+```python
 void setup() { 
 Serial.begin(9600); 
 Serial.println("Halló"); 
 }
+```
 
 ## Commodo occaecat
 
