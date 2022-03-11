@@ -31,7 +31,10 @@ pie title Tölur úr töflunni hér að ofan
 
 ### Dolore ut velit
 
-void setup() { Serial.begin(9600); Serial.println("Halló"); }
+void setup() { 
+Serial.begin(9600); 
+Serial.println("Halló"); 
+}
 
 ## Commodo occaecat
 
