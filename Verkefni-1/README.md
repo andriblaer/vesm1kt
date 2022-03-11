@@ -22,7 +22,12 @@ Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatu
 | tempor| et      | fugiat|
 
 ### Eiusmod tempor et fugiat
-
+```mermaid
+pie title Pets adopted by volunteers
+    "Dogs" : 386
+    "Cats" : 85
+    "Rats" : 15
+```
 
 ### Dolore ut velit
 
