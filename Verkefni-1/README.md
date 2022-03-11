@@ -23,10 +23,10 @@ Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatu
 
 ### Eiusmod tempor et fugiat
 ```mermaid
-pie title Pets adopted by volunteers
-    "Dogs" : 386
-    "Cats" : 85
-    "Rats" : 15
+Tölur úr töflunni hér að ofan
+    "miðja" : 12
+    "vinstri" : 33
+    "Hægri" : 55
 ```
 
 ### Dolore ut velit
