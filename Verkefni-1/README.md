@@ -40,11 +40,21 @@ Serial.println("Halló");
 
 ## Commodo occaecat
 
-Incididunt laborum mollit cupidatat laboris anim
+1. Incididunt 
+1. laborum 
+    1. mollit 
+    1. cupidatat 
+1. laboris 
+1. anim
 
 Velit sit sunt incididunt ipsum eiusmod id ipsum deserunt sint non enim.
 
-deserunt sit aliqua eiusmod irure aliquip
+deserunt 
+sit
+aliqua
+eiusmod 
+irure 
+aliquip
 
 ## Occaecat amet labore
 Slóð á mynd: https://tskoli.is/wp-content/uploads/2019/06/skolavorduholt-595x440.jpg
