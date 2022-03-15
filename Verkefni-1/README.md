@@ -4,10 +4,10 @@
 1. [Ex est eiusmod quis in tempor](#ex-est-eiusmod-quis-in-tempor)
     1. Nulla consequat in duis](#nulla-consequat-in-duis-quis)
 1. [quis Ad esse sit nostrud est sit sunt](#ad-esse-sit-nostrud-est-sit-sunt)
-Eiusmod tempor et fugiat 
-Dolore ut velit 
-Commodo occaecat 
-Occaecat amet labore
+    1. [Eiusmod tempor et fugiat](#eiusmod-tempor-et-fugiat)
+    1. [Dolore ut velit](#dolore-ut-velit)
+1. [Commodo occaecat](#commodo-occaecat)
+1. [Occaecat amet labore](#occaecat-amet-labore)
 
 ## Eu excepteur id pariatur velit
 
