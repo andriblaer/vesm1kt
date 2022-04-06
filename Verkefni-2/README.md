@@ -12,6 +12,8 @@ Fyrsta verkefnið okkar var að búa til okkar eigið logo en við notuðum appi
 
 # Nafspjald SVG
 
+![](file:///C:/Users/Notandi/OneDrive/Noll%C3%B3/Myndir/Saved%20Pictures/Verksmi%C3%B0ja-nafnspjald.svg)
+
 # Nafspjald PNG 
 
 # Nafnspjald ljósmynd 
