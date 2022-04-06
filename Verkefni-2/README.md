@@ -3,6 +3,7 @@ Fyrsta verkefnið okkar var að búa til okkar eigið logo en við notuðum appi
 
 # Lógo SVG
 ![](file:///C:/Users/Notandi/OneDrive/Sk%C3%B3li/%C3%B6nn%202/inska/drawing_l%C3%B3go_svg_mynd.svg)
+
 # Logo PNG
 
 # Um nafnspjald 
