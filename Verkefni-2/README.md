@@ -11,15 +11,17 @@ Fyrsta verkefnið okkar var að búa til okkar eigið logo en við notuðum appi
 Þegar ég var búinn að skera út nafnspjaldið tók ég eftir því að lógóið sem ég var búinn að hanna var of lítið og þétt á nafnspjaldinu. En ef ég hefði aðeins skorið út lógóið stærra hefði lógóið heppnast betur.
 
 # Nafspjald SVG
+![Verksmiðja-nafnspjald](https://user-images.githubusercontent.com/100711182/162007053-31b0d9fc-97fc-4ae2-b263-084065241707.svg)
 
 # Nafspjald PNG 
 ![VerksmiÃ°ja-nafnspjald](https://user-images.githubusercontent.com/100711182/162005095-8fc31828-35a2-4081-88f0-aa448338b44b.png)
 
 # Nafnspjald ljósmynd 
 
-# Hulstur SVG
+# box SVG
+![drawing-1- Box](https://user-images.githubusercontent.com/100711182/162007140-d78d4c6b-72c6-4c47-9a43-d6e2a2a3c43e.svg)
 
-# Hulsur PNG 
+# box PNG 
 ![drawing-1- Box](https://user-images.githubusercontent.com/100711182/162006092-dfa1e079-40b5-4538-9cda-3947df1a69c8.png)
 
 # Hulstur ljósmynd 
