@@ -3,7 +3,7 @@ Fyrsta verkefnið okkar var að búa til okkar eigið logo en við notuðum appi
 
 # Lógo SVG
 
-![Alt text](file:///C:/Users/Notandi/Desktop/drawing_l%C3%83%C2%B3go_svg_mynd.png)
+![ha](file:///C:/Users/Notandi/Desktop/drawing_l%C3%83%C2%B3go_svg_mynd.png)
 
 # Logo PNG
 
