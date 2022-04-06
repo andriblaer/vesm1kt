@@ -20,5 +20,6 @@ Fyrsta verkefnið okkar var að búa til okkar eigið logo en við notuðum appi
 # Hulstur SVG
 
 # Hulsur PNG 
+![drawing-1- Box](https://user-images.githubusercontent.com/100711182/162006092-dfa1e079-40b5-4538-9cda-3947df1a69c8.png)
 
 # Hulstur ljósmynd 
