@@ -5,6 +5,10 @@ Fyrsta verkefnið okkar var að búa til okkar eigið logo en við notuðum appi
 
 # Logo PNG
 
+# Um nafnspjald 
+Þegar ég var búinn að skera út nafnspjaldið tók ég eftir því að lógóið sem ég var búinn að hanna var of lítið og þétt á nafnspjaldinu. En ef ég hefði aðeins skorið út lógóið stærra hefði lógóið heppnast betur.
+
+
 # Nafspjald SVG
 
 # Nafspjald PNG 
