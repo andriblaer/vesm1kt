@@ -2,8 +2,7 @@
 Fyrsta verkefnið okkar var að búa til okkar eigið logo en við notuðum appið Inkscape. Ég byrjaði á því að setja fimm hringi niður til að setja upp aðalformið. En ég notaði stillinganar differents til að fá flotta formið fyrir lógóið. Síðan gerði ég annan hring fyrir ofan og inn í lógóið, síðan reyndi ég að gera hringina eins flotta og ég gat. Ég endaði á því að lita allt til að gera allt extra flott og setja línu fyrir neðan með pennanum í Inkscape.
 
 # Lógo SVG
-
-![](https://tskoli.is/wp-content/uploads/2019/06/skolavorduholt-595x440.jpg)
+![drawing_lÃ³go_svg_mynd](https://user-images.githubusercontent.com/100711182/162002899-e6f2ea84-319a-4bfa-945f-5164be97ff96.png)
 
 # Logo PNG
 
