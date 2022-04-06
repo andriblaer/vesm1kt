@@ -13,6 +13,7 @@ Fyrsta verkefnið okkar var að búa til okkar eigið logo en við notuðum appi
 # Nafspjald SVG
 
 # Nafspjald PNG 
+![VerksmiÃ°ja-nafnspjald](https://user-images.githubusercontent.com/100711182/162005095-8fc31828-35a2-4081-88f0-aa448338b44b.png)
 
 # Nafnspjald ljósmynd 
 
