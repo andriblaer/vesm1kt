@@ -3,7 +3,7 @@ Fyrsta verkefnið okkar var að búa til okkar eigið logo en við notuðum appi
 
 # Lógo SVG
 
-![](file:///C:/Users/Notandi/Desktop/drawing_l%C3%83%C2%B3go_svg_mynd.png)
+![](https://tskoli.is/wp-content/uploads/2019/06/skolavorduholt-595x440.jpg)
 
 # Logo PNG
 
